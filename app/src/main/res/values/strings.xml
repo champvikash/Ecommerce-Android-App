@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ecommerce App</string>
+    <string name="step_up">Step into your <font color="#6030ba">style\n World of shoe</font></string>
+    <string name="step_up2">Browse the latest brand from top brand</string>
+    <string name="get_personal">Get personal recommendation</string>
+    <string name="fast_free">Enjoy fast free shopping</string>
+    <string name="lets_gets">Let\'s get start</string>
+    <string name="have_an_account">Already have an account? <font color="#6030ba">Sign in</font> </string>
+    <string name="Welcome_Back">Welcome Back</string>
+    <string name="jammie">Jammie\n</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="seeall">See all</string>
+    <string name="brand_name">brand name</string>
+    <string name="title">title</string>
+    <string name="shoes_name">Shoes Name</string>
+
+</resources>
