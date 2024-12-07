@@ -9,7 +9,7 @@
   <br />
   <br />
   
-  <a href="https://github.com/">Request Feature</a>
+  <a href="https://github.com/champvikash/Ecommerce-Android-App/issues">Request Feature</a>
 </p>
 
 
