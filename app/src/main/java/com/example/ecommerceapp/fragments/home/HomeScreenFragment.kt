@@ -103,7 +103,7 @@ class HomeScreenFragment : Fragment() , StickerOnItemClick {
 
     override fun onClick(position: Int) {
         val bundle = Bundle()
-        bundle.putParcelable("object", ArrayList(list))
+//        bundle.putParcelable("object", ArrayList(list))
 
     }
 
