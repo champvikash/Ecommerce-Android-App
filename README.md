@@ -11,3 +11,15 @@
   
   <a href="https://github.com/">Request Feature</a>
 </p>
+
+
+
+### Built with
+
+- [Android Studio](https://developer.android.com/studio)
+- [Kotlin](https://kotlinlang.org)
+- [Retrofit](https://square.github.io/retrofit)
+- Leanback
+- Coroutines
+- MVVM Architecture
+- Android Architecture Components
