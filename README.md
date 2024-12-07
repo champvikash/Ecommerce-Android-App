@@ -56,3 +56,9 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your changes (`git commit -m 'feat: add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a pull request
+
+
+## Author
+- [Vikash](https://github.com/champvikash)
+
+
