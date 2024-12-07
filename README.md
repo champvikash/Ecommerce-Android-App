@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="100px" />
+  <img src="./app/src/main/res/screenshot1.png" height="100px" />
   <br />
   An Ecommerce Android App, in Kotlin
   <br />
