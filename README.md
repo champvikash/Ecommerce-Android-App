@@ -3,7 +3,7 @@
   <br />
   An Ecommerce Android App, in Kotlin
   <br />
-  <a href="https://github.com/">
+  <a href="https://github.com/champvikash/Ecommerce-Android-App/tree/v-1.0/app/release/latest">
     <strong>Download app »</strong>
   </a>
   <br />
