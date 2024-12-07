@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./app/src/main/res/screenshot1.jpg" height="100px" />
+  <img src="./app/src/main/res/screenshot1.jpg" height="200px" , width= "200px" />
   <br />
   An Ecommerce Android App, in Kotlin
   <br />
