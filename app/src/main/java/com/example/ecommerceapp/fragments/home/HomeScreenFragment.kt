@@ -24,7 +24,6 @@ import com.example.ecommerceapp.model.SliderModel
 
 class HomeScreenFragment : Fragment() , StickerOnItemClick {
     private lateinit var binding: FragmentHomeScreenBinding
-
     private val viewModel: HomeScreenViewModel by viewModels()
     private lateinit var list : MutableList<ItemsModel>
 
@@ -39,7 +38,6 @@ class HomeScreenFragment : Fragment() , StickerOnItemClick {
 
 
         binding.searchBadge.setOnClickListener {
-            findNavController().navigate(R.id.action_homeScreenFragment_to_productDetailsFragment)
 
         }
 
@@ -102,9 +100,10 @@ class HomeScreenFragment : Fragment() , StickerOnItemClick {
     }
 
     override fun onClick(position: Int) {
+        findNavController().navigate(R.id.action_homeScreenFragment_to_productDetailsFragment)
+
         val bundle = Bundle()
 //        bundle.putParcelable("object", ArrayList(list))
-
     }
 
 
